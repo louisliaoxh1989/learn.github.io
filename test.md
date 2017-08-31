@@ -23,15 +23,21 @@ https://www.w3cplus.com/css3/css-shapes-breaking-rectangular-design.html
 ## 轮播及滚动
 
 ```
+
+
+
+
+
+
 jQuery幻灯片切换
 http://www.jq22.com/jquery-info14909
+
 
 支持markdown语法的网页幻灯片插件Talkie.js
 http://www.jq22.com/jquery-info14707
 
 手机触屏滑动的响应式图片轮播效果
 http://www.jq22.com/jquery-info14576
-
 
 js带时间轴的图片轮播切换代码（是切换的div）
 http://www.17sucai.com/pins/9596.html
